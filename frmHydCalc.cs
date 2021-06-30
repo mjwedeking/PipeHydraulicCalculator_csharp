@@ -422,7 +422,7 @@ namespace HydraulicCalc
             // rdoVQA
             // 
             this.rdoVQA.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.rdoVQA.Location = new System.Drawing.Point(179, 19);
+            this.rdoVQA.Location = new System.Drawing.Point(222, 19);
             this.rdoVQA.Name = "rdoVQA";
             this.rdoVQA.Size = new System.Drawing.Size(53, 24);
             this.rdoVQA.TabIndex = 3;
@@ -434,7 +434,7 @@ namespace HydraulicCalc
             // rdoDepth
             // 
             this.rdoDepth.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.rdoDepth.Location = new System.Drawing.Point(262, 19);
+            this.rdoDepth.Location = new System.Drawing.Point(310, 19);
             this.rdoDepth.Name = "rdoDepth";
             this.rdoDepth.Size = new System.Drawing.Size(52, 24);
             this.rdoDepth.TabIndex = 2;
@@ -446,7 +446,7 @@ namespace HydraulicCalc
             // 
             this.rdoFlow.Checked = true;
             this.rdoFlow.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.rdoFlow.Location = new System.Drawing.Point(19, 19);
+            this.rdoFlow.Location = new System.Drawing.Point(52, 19);
             this.rdoFlow.Name = "rdoFlow";
             this.rdoFlow.Size = new System.Drawing.Size(46, 24);
             this.rdoFlow.TabIndex = 0;
@@ -458,7 +458,7 @@ namespace HydraulicCalc
             // rdoQVA
             // 
             this.rdoQVA.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.rdoQVA.Location = new System.Drawing.Point(95, 19);
+            this.rdoQVA.Location = new System.Drawing.Point(133, 19);
             this.rdoQVA.Name = "rdoQVA";
             this.rdoQVA.Size = new System.Drawing.Size(54, 24);
             this.rdoQVA.TabIndex = 1;

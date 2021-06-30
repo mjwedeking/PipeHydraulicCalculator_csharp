@@ -22,3 +22,11 @@ C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\Hydraulic
 C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.exe
 C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.pdb
 C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.Properties.Resources.resources
+C:\Users\Matthew\source\repos\mjwedeking\PipeHydraulicCalculator_csharp\bin\Debug\HydraulicCalc.exe
+C:\Users\Matthew\source\repos\mjwedeking\PipeHydraulicCalculator_csharp\bin\Debug\HydraulicCalc.pdb
+C:\Users\Matthew\source\repos\mjwedeking\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.Properties.Resources.resources
+C:\Users\Matthew\source\repos\mjwedeking\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.frmHydCalc.resources
+C:\Users\Matthew\source\repos\mjwedeking\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\mjwedeking\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\mjwedeking\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.exe
+C:\Users\Matthew\source\repos\mjwedeking\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.pdb

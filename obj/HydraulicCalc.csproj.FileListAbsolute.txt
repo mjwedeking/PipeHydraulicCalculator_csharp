@@ -1,0 +1,7 @@
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\HydraulicCalc.exe
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\HydraulicCalc.pdb
+C:\Visual Studio Projects\HydraulicCalc\bin\Debug\HydraulicCalc.exe
+C:\Visual Studio Projects\HydraulicCalc\bin\Debug\HydraulicCalc.pdb
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\HydraulicCalc.frmHydCalc.resources
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\HydraulicCalc.csproj.GenerateResource.Cache

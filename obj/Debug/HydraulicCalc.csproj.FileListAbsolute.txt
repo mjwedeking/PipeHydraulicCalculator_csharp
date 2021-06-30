@@ -1,0 +1,24 @@
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\HydraulicCalc.exe
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\HydraulicCalc.pdb
+C:\Visual Studio Projects\HydraulicCalc\bin\Debug\HydraulicCalc.exe
+C:\Visual Studio Projects\HydraulicCalc\bin\Debug\HydraulicCalc.pdb
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\HydraulicCalc.frmHydCalc.resources
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\GenerateResource.read.1.tlog
+C:\Visual Studio Projects\HydraulicCalc\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Matthew\source\repos\HydraulicCalc\bin\Debug\HydraulicCalc.exe
+C:\Users\Matthew\source\repos\HydraulicCalc\bin\Debug\HydraulicCalc.pdb
+C:\Users\Matthew\source\repos\HydraulicCalc\obj\Debug\HydraulicCalc.frmHydCalc.resources
+C:\Users\Matthew\source\repos\HydraulicCalc\obj\Debug\HydraulicCalc.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\HydraulicCalc\obj\Debug\HydraulicCalc.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\HydraulicCalc\obj\Debug\HydraulicCalc.exe
+C:\Users\Matthew\source\repos\HydraulicCalc\obj\Debug\HydraulicCalc.pdb
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\bin\Debug\HydraulicCalc.exe
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\bin\Debug\HydraulicCalc.pdb
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.csprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.frmHydCalc.resources
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.exe
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.pdb
+C:\Users\Matthew\source\repos\PipeHydraulicCalculator_csharp\obj\Debug\HydraulicCalc.Properties.Resources.resources
